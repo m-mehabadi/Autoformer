@@ -1,6 +1,6 @@
 pandas
 scikit-learn
 torchvision
-numpy
+numpy<2.0
 matplotlib
 reformer_pytorch
